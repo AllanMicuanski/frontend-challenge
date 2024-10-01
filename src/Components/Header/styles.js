@@ -4,7 +4,7 @@ export const Container = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 60px;
+  margin: 54px 60px 24px 60px;
   font-family: 'Roboto', sans-serif;
 `;
 
